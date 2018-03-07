@@ -48,9 +48,6 @@ public class Principal {
         System.out.println("el resultado de la multiplicación es: ");
         System.out.println(miCalculadora.getR());
 
-        miTrigo.sen();
-        System.out.println("el resultado de la sen es: ");
-        System.out.println(miTrigo.getX());
 
     }
 
